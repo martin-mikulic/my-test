@@ -1,0 +1,209 @@
+
+your-skeleton.png
+size: 1837,1971
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm
+  rotate: true
+  xy: 223, 1865
+  size: 104, 503
+  orig: 106, 505
+  offset: 1, 1
+  index: -1
+Hatchet
+  rotate: false
+  xy: 1564, 1773
+  size: 212, 196
+  orig: 213, 196
+  offset: 0, 0
+  index: -1
+Lianas
+  rotate: true
+  xy: 1174, 1815
+  size: 154, 388
+  orig: 154, 389
+  offset: 0, 0
+  index: -1
+Mauro Stefano
+  rotate: false
+  xy: 728, 1839
+  size: 173, 130
+  orig: 177, 134
+  offset: 2, 2
+  index: -1
+TerrorFromTheSea
+  rotate: false
+  xy: 903, 1820
+  size: 269, 149
+  orig: 273, 153
+  offset: 2, 2
+  index: -1
+WaterRipple
+  rotate: false
+  xy: 2, 1941
+  size: 219, 28
+  orig: 221, 30
+  offset: 1, 1
+  index: -1
+Zagor
+  rotate: true
+  xy: 2, 797
+  size: 487, 933
+  orig: 487, 938
+  offset: 0, 0
+  index: -1
+Zagor Logo
+  rotate: false
+  xy: 2, 1640
+  size: 666, 223
+  orig: 668, 225
+  offset: 1, 1
+  index: -1
+Zagor2
+  rotate: true
+  xy: 670, 1286
+  size: 485, 931
+  orig: 487, 938
+  offset: 1, 1
+  index: -1
+rain/Layer 1
+  rotate: false
+  xy: 937, 2
+  size: 898, 1282
+  orig: 900, 1284
+  offset: 1, 1
+  index: -1
+
+your-skeleton2.png
+size: 1802,1357
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 2
+  size: 898, 1353
+  orig: 900, 1355
+  offset: 1, 1
+  index: -1
+Thunder
+  rotate: false
+  xy: 902, 2
+  size: 898, 1353
+  orig: 900, 1355
+  offset: 1, 1
+  index: -1
+
+your-skeleton3.png
+size: 1802,1286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rain/Layer 3
+  rotate: false
+  xy: 2, 2
+  size: 898, 1282
+  orig: 900, 1284
+  offset: 1, 1
+  index: -1
+rain/Layer 5
+  rotate: false
+  xy: 902, 2
+  size: 898, 1282
+  orig: 900, 1284
+  offset: 1, 1
+  index: -1
+
+your-skeleton4.png
+size: 1802,1286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rain/Layer 7
+  rotate: false
+  xy: 2, 2
+  size: 898, 1282
+  orig: 900, 1284
+  offset: 1, 1
+  index: -1
+rain/Layer 9
+  rotate: false
+  xy: 902, 2
+  size: 898, 1282
+  orig: 900, 1284
+  offset: 1, 1
+  index: -1
+
+your-skeleton5.png
+size: 1802,1286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rain/Layer 11
+  rotate: false
+  xy: 2, 2
+  size: 898, 1282
+  orig: 900, 1284
+  offset: 1, 1
+  index: -1
+rain/Layer 13
+  rotate: false
+  xy: 902, 2
+  size: 898, 1282
+  orig: 900, 1284
+  offset: 1, 1
+  index: -1
+
+your-skeleton6.png
+size: 1802,1286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rain/Layer 15
+  rotate: false
+  xy: 2, 2
+  size: 898, 1282
+  orig: 900, 1284
+  offset: 1, 1
+  index: -1
+rain/Layer 17
+  rotate: false
+  xy: 902, 2
+  size: 898, 1282
+  orig: 900, 1284
+  offset: 1, 1
+  index: -1
+
+your-skeleton7.png
+size: 1802,1286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rain/Layer 19
+  rotate: false
+  xy: 2, 2
+  size: 898, 1282
+  orig: 900, 1284
+  offset: 1, 1
+  index: -1
+rain/Layer 21
+  rotate: false
+  xy: 902, 2
+  size: 898, 1282
+  orig: 900, 1284
+  offset: 1, 1
+  index: -1
+
+your-skeleton8.png
+size: 902,1286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rain/Layer 23
+  rotate: false
+  xy: 2, 2
+  size: 898, 1282
+  orig: 900, 1284
+  offset: 1, 1
+  index: -1
