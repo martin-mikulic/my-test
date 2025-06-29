@@ -2,15 +2,38 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Spine Animation</title>
+  <title>Spine 3.8 Player</title>
+  <link rel="stylesheet" href="spine-player.css">
+  <style>
+    body {
+      background: #222;
+      margin: 0;
+      padding: 0;
+    }
+    #player-container {
+      width: 800px;
+      height: 600px;
+      margin: 20px auto;
+      border: 1px solid #555;
+    }
+  </style>
 </head>
 <body>
-    <iframe
-    src="https://esotericsoftware.com/web-player/?url=https://martin-mikulic.github.io/my-test/your-skeleton.json&version=3.8&animation=animation"
-    width="800"
-    height="600"
-    frameborder="0"
-  ></iframe>
-  
+  <div id="player-container"></div>
+
+  <script src="spine-player.js"></script>
+  <script>
+    new spine.SpinePlayer("player-container", {
+      jsonUrl: "your-skeleton.json",
+      atlasUrl: "your-skeleton.atlas",
+      animation: "animation",
+      alpha: true,
+      backgroundColor: "#222222",
+      showControls: true,
+      success: function (player) {
+        console.log("Spine animation loaded!");
+      }
+    });
+  </script>
 </body>
 </html>
