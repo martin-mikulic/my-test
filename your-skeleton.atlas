@@ -1,5 +1,5 @@
 
-your-skeleton.png
+your-skeleton.jpg
 size: 1837,1971
 format: RGBA8888
 filter: Linear,Linear
@@ -75,7 +75,7 @@ rain/Layer 1
   offset: 1, 1
   index: -1
 
-your-skeleton2.png
+your-skeleton2.jpg
 size: 1802,1357
 format: RGBA8888
 filter: Linear,Linear
@@ -95,7 +95,7 @@ Thunder
   offset: 1, 1
   index: -1
 
-your-skeleton3.png
+your-skeleton3.jpg
 size: 1802,1286
 format: RGBA8888
 filter: Linear,Linear
@@ -115,7 +115,7 @@ rain/Layer 5
   offset: 1, 1
   index: -1
 
-your-skeleton4.png
+your-skeleton4.jpg
 size: 1802,1286
 format: RGBA8888
 filter: Linear,Linear
@@ -135,7 +135,7 @@ rain/Layer 9
   offset: 1, 1
   index: -1
 
-your-skeleton5.png
+your-skeleton5.jpg
 size: 1802,1286
 format: RGBA8888
 filter: Linear,Linear
@@ -155,7 +155,7 @@ rain/Layer 13
   offset: 1, 1
   index: -1
 
-your-skeleton6.png
+your-skeleton6.jpg
 size: 1802,1286
 format: RGBA8888
 filter: Linear,Linear
@@ -175,7 +175,7 @@ rain/Layer 17
   offset: 1, 1
   index: -1
 
-your-skeleton7.png
+your-skeleton7.jpg
 size: 1802,1286
 format: RGBA8888
 filter: Linear,Linear
@@ -195,7 +195,7 @@ rain/Layer 21
   offset: 1, 1
   index: -1
 
-your-skeleton8.png
+your-skeleton8.jpg
 size: 902,1286
 format: RGBA8888
 filter: Linear,Linear
